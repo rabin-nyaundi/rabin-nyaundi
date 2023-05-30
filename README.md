@@ -3,7 +3,7 @@
 I'm Software Engineer - Fullstack and Technical Writter.
 
 - 🌱 I’m currently learning Go, React Native
--  💬 Ask me about related to fullstack Python/JavaScript/Go, Django/React/NextJS and Docker
+-  💬 Ask me about anything related to fullstack Python/JavaScript/Go, Django/React/NextJS and Docker
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [nyaundirabin@gmail.com](mailto:nyaundirabin@gmail.com), [twitter](https://twitter.com/rabin_mn), [LinkedIn](https://www.linkedin.com/in/rabin-nyaundi-0557a1175/)
 - 🔭 I’m currently working on something cool
