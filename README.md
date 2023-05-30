@@ -12,7 +12,7 @@ I'm Software Engineer - Fullstack and Technical Writter.
 
 ### Recent posts
 - [Getting sstated with React useReducer Hook](https://medium.com/@rabin.nyaundi254/react-usereducer-hook-e9a7bbdfd060)
-- [Nextjs Authentication with NextAuth Credentials(username/password)](https://medium.com/p/7d55b14e68ad)
+- [Nextjs Authentication with NextAuth Credentials(username/password)](https://medium.com/@rabin.nyaundi254/nextjs-authentication-with-nextauth-prisma-an-postgres-7d55b14e68ad)
 
 
 <details>
@@ -44,4 +44,14 @@ I'm Software Engineer - Fullstack and Technical Writter.
 </details>
 
 [![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabin-nyaundi&show_icons=true&theme=radical)](https://github.com/rabin-nyaundi/github-readme-stats)
-
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=rabin-nyaundi&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=rabin-nyaundi&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=rabin-nyaundi&show_icons=true" />
+</picture>
