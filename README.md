@@ -43,5 +43,5 @@ I'm Software Engineer - Fullstack and Technical Writter.
 
 </details>
 
-[![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabin-nyaund&show_icons=true&theme=radical)](https://github.com/rabin-nyaund/github-readme-stats)
+[![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabin-nyaundi&show_icons=true&theme=radical)](https://github.com/rabin-nyaundi/github-readme-stats)
 
