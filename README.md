@@ -15,7 +15,7 @@ I'm Software Engineer - Fullstack and Technical Writter.
 - [Nextjs Authentication with NextAuth Credentials(username/password)](https://medium.com/@rabin.nyaundi254/nextjs-authentication-with-nextauth-prisma-an-postgres-7d55b14e68ad)
 
 
-<details>
+<!-- <details> -->
   <summary>Languages and tools</summary>
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +41,7 @@ I'm Software Engineer - Fullstack and Technical Writter.
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-</details>
+<!-- </details> -->
 
 <!-- [![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabin-nyaundi&show_icons=true&theme=radical)](https://github.com/rabin-nyaundi/github-readme-stats) -->
 <picture>
