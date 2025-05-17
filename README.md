@@ -1,4 +1,4 @@
-## Hi, I'm Rabin
+## Hi, I'm Rabin 
 
 I'm a passionate Software Engineer focused on building tech solutions to empower businesses, an active contributor to open-source projects. Some technologies I enjoy working with include Python FastAPI, Django, JavaScript, React and NextJs, Golang, and PHP.
 
