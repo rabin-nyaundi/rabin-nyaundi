@@ -2,7 +2,8 @@
 
 I'm a Software Engineer focused on building solutions to empower businesses, an active contributor to open-source projects. Some technologies I enjoy working with include Python FastAPI, Django, JavaScript, React and NextJs, Golang, and PHP.
 
-- 🌱 I’m currently building full-stack application using FastAPI, NextJS, and React Native.
+- 🌱 I’m currently building [https://susmpos.com](sumspos.com)
+
 -  💬 Ask me about anything related to fullstack Python/JavaScript/Go, Django/React/NextJS and Docker
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [nyaundirabin@gmail.com](mailto:nyaundirabin@gmail.com), [twitter](https://twitter.com/rabin_mn), [LinkedIn](https://www.linkedin.com/in/rabin-nyaundi-0557a1175/)
