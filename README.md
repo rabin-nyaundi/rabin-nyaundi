@@ -4,8 +4,8 @@ I'm a Software Engineer focused on building solutions to empower businesses, an 
 
 - 🌱 I’m currently building [sumspos.com](https://susmpos.com)
 
--  💬 Ask me about anything related to fullstack Python/JavaScript/Go, Django/React/NextJS and Docker
-- 😄 Pronouns: He/Him
+-  💬 Ask me about anything related to fullstack Python/JavaScript/Go, FastAPI,Django/React/NextJS and Docker
+
 - 📫 How to reach me: [nyaundirabin@gmail.com](mailto:nyaundirabin@gmail.com), [twitter](https://twitter.com/rabin_mn), [LinkedIn](https://www.linkedin.com/in/rabin-nyaundi-0557a1175/)
 - 🔭 I’m currently working on something cool
 
