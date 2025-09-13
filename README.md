@@ -2,7 +2,7 @@
 
 I'm a Software Engineer focused on building solutions to empower businesses, an active contributor to open-source projects. Some technologies I enjoy working with include Python FastAPI, Django, JavaScript, React and NextJs, Golang, and PHP.
 
-- 🌱 I’m currently building (https://susmpos.com)[sumspos.com]
+- 🌱 I’m currently building [sumspos.com](https://susmpos.com)
 
 -  💬 Ask me about anything related to fullstack Python/JavaScript/Go, Django/React/NextJS and Docker
 - 😄 Pronouns: He/Him
